@@ -1,5 +1,6 @@
 
 # Written for Python 3
+# Add a new comment
 
 f=open('words.txt', encoding='utf-8')
 

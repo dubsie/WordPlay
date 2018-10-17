@@ -1,6 +1,7 @@
 
 # Written for Python 3
 # Add a new comment
+# Add a third comment
 
 f=open('words.txt', encoding='utf-8')
 
